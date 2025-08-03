@@ -1,0 +1,5 @@
+title: Oliver Potter
+description: "Portfolio for Oliver Potter"
+encoding: utf-8
+
+exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
