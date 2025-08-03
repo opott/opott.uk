@@ -61,4 +61,4 @@ I'm currently completing my secondary education, with predicted grade 8s in Scie
 
 ---
 
-<!-- TODO: 'Explore More' section with links to projects and photos pages -->
+<!-- TODO: 'Explore More' section with links to projects and photos pages --><!-- Issue URL: https://github.com/opott/opott.uk/issues/5 -->
